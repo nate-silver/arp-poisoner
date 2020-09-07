@@ -8,4 +8,4 @@ Files
 - dnsspoof.py - Contains functionalities related to DNS Spoofing. 
 
 To do:
-- add a python http webserver functionality to complemenet the DNS Poisoining feature. 
+- add a python http webserver functionality to complement the DNS Poisoining feature. 
